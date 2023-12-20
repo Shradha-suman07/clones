@@ -1,2 +1,2 @@
 # clones
- To understand how to use HTML, CSS
+ To Understand How To Use HTML, CSS.
